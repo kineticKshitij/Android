@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App strings -->
+    <string name="app_name">My Todo App</string>
+    <string name="task_hint">Enter new task</string>
+    <string name="add_button">Add</string>
+
+    <!-- Notification-related strings -->
+    <string name="channel_name">Task Notifications</string>
+    <string name="channel_description">Notifications for task actions</string>
+    <string name="permission_granted">Notification permission granted</string>
+    <string name="permission_denied">Notification permission denied. You won\'t receive task notifications.</string>
+    <string name="notification_permission_missing">Notification permission not granted</string>
+
+    <!-- Task management strings -->
+    <string name="task_added_title">New Task Added</string>
+    <string name="task_added_message">Added: %1$s</string>
+    <string name="task_deleted_title">Task Deleted</string>
+    <string name="task_deleted_message">Removed: %1$s</string>
+    <string name="created_on_format">Created on: %1$s</string>
+    <string name="db_error">Error adding task to database</string>
+    <string name="delete_button">Delete</string>
+</resources>
